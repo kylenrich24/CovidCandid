@@ -1,6 +1,6 @@
 # CovidCandid
 
-<h3>Run the Express App</h3>
+<h3>Run the Express App: </h3>
 
 On your CMD
 <ul>
