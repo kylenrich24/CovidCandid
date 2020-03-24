@@ -9,3 +9,5 @@ On your CMD:
   <li><strong>npm install</strong> (install dependencies)
   <li><strong>node index.js</strong>
 </ul>
+
+App is deployed at Heroku : https://stormy-river-02497.herokuapp.com/
