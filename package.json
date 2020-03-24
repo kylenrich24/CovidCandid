@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kylenrich24/CovidCandid/issues"
   },
-  "homepage": "https://github.com/kylenrich24/CovidCandid#readme"
+  "homepage": "https://github.com/kylenrich24/CovidCandid#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
